@@ -1,6 +1,7 @@
+
 --[[
     Turtle Control OS
-    Originally created by ottomated, modified by PrintedScript
+    Originally created by ottomated, modified by PrintedScript, Modified further by TuffetSpider
     https://github.com/PrintedScript/turtle-control
 ]]
 -- Settings
